@@ -1,5 +1,5 @@
 # Multi-Resolution CNNs for Large-Scale Scene Recognition
-Here we provide the code and models for the following paper ([Arxiv Preprint](https://arxiv.org/abs/1610.01119)):
+Here we provide the code and models for the following paper ([Arxiv Preprint](https://arxiv.org/pdf/1610.01119.pdf)):
 
     Knowledge Guided Disambiguation for Large-Scale Scene Classification with Multi-Resolution CNNs
     Limin Wang, Sheng Guo, Weilin Huang, Yuanjun Xiong, and Yu Qiao 
